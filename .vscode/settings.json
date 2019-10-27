@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/663b4d54-d698-410c-a527-0a7f122fe26d/resourceGroups/skola/providers/Microsoft.Web/sites/helloAzure77",
+    "appService.deploySubpath": ""
+}
